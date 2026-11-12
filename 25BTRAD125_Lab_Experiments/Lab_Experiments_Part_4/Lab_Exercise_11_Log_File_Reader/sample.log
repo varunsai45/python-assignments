@@ -1,0 +1,12 @@
+2026-11-10 09:00:01 INFO Application started
+2026-11-10 09:00:05 INFO Database connection established
+2026-11-10 09:01:12 WARNING Disk usage is above 80 percent
+2026-11-10 09:02:44 ERROR Failed to connect to payment gateway
+2026-11-10 09:03:10 INFO Retry attempt 1 for payment gateway
+2026-11-10 09:03:25 ERROR Payment gateway timeout
+2026-11-10 09:04:00 WARNING Slow response from report service
+2026-11-10 09:05:30 INFO Report generated successfully
+2026-11-10 09:06:00 DEBUG Cache cleared
+2026-11-10 09:07:45 ERROR Invalid user input for order id
+2026-11-10 09:08:20 INFO User login successful
+2026-11-10 09:09:00 WARNING Memory usage at 85 percent

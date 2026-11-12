@@ -1,0 +1,6 @@
+emp_id,name,basic_salary
+E101,Aarav Sharma,45000
+E102,Diya Patel,62000
+E103,Kabir Rao,28000
+E104,Meera Iyer,85000
+E105,Invalid Row,abc

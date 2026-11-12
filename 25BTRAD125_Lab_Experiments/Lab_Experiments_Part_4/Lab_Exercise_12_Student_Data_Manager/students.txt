@@ -1,0 +1,3 @@
+101|Aarav Sharma|B.Tech CSE|88.5
+102|Diya Patel|B.Tech IT|91.0
+103|Kabir Rao|BBA|76.25
