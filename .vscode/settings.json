@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}\\25BTRAD125_ExperientialLearning\\group project\\Smart_Hostel_Management_UI_Updated"
+  ],
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.venv": true
+  }
+}
